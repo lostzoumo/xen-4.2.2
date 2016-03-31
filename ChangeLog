@@ -1,0 +1,6 @@
+changeset:   26064:754008dbaa6c
+tag:         tip
+user:        Jan Beulich <jbeulich@suse.com>
+date:        Tue Apr 23 18:42:55 2013 +0200
+summary:     update Xen version to 4.2.2
+
